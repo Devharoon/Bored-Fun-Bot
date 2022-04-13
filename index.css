@@ -1,0 +1,28 @@
+body, html{
+    margin: 0 auto;
+    color: white;
+    background: #2e3234;
+    
+}
+.container{
+    
+    letter-spacing: .5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+}
+h1, h4{
+    margin-bottom: 40px;
+}
+button{
+    top: 30px;
+    min-height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 1px solid #000;
+    
+    
+}
+
